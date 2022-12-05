@@ -10,13 +10,14 @@
 └───────────────────────────────────────────────┘
 ```
 
-# goormIDE
-Welcome to goormIDE!
+# 20200988_백건우
+백건우의 과제입니다.
 
-goormIDE is a powerful cloud IDE service to maximize productivity for developers and teams.  
-**DEVELOP WITH EXCELLENCE**  
+원활한 사용과 무료 24시간 활성화를 위해 Google Cloud 에 있던 시스템을 goormIDE를 이용해 옮겨두었습니다.
+보다 자세한 설명은 아래 유튜브 링크를 통해 확인 가능합니다.
+**유튜브 링크**  
 
-`Happy coding! The goormIDE team`
+`https://www.youtube.com/watch?v=2NEsQdhNs7E`
 
 
 ## 🔧 Tip & Guide
