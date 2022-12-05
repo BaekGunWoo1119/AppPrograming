@@ -2,7 +2,14 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <?php
 
-	include "(/AppProgram_20200988/db/db_conn.php");
+	$host = 'localhost';
+	$user = 'qorrjsdn668';
+	$pw = '0124';
+	$dbName = 'main_db';
+    $mysqli = new mysqli($host, $user, $pw, $dbName);
+    
+    error_reporting( E_ALL );
+    ini_set( "display_errors", 1 );
 
 	$data_email = $_POST['inputEmail'];
 	$data_email = addslashes($data_email);
@@ -42,6 +49,6 @@
 ?>
 
 <script>
-	location.href = "signupform.html";
+	location.href = "signin.html";
 </script>
 </html>

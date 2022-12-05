@@ -39,7 +39,7 @@
         $_SESSION['userpw'] = password_hash($userpw);
 
         echo "<script> alert('로그인 성공'); </script>";
-        echo "<script> location.href = 'success.html'; </script>";
+        echo "<script> location.href = 'index_main.php'; </script>";
 
     }else{ // id 또는 pw가 다르다면 admin_login 폼으로
 

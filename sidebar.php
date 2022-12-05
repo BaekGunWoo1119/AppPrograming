@@ -25,9 +25,9 @@
                         </div>
                     </div>
                     <a href="shop.php" class="nav-item nav-link"><i class="fa me-2">🛒</i>포인트 상점</a>
-                    <a href="form.html" class="nav-item nav-link"><i class="fa me-2">★</i>인기 게시글</a>
-                    <a href="table.html" class="nav-item nav-link"><i class="fa fa-file-alt me-2"></i>이용자 커뮤니티</a>
-                    <a href="chart.html" class="nav-item nav-link"><i class="fa fa-keyboard me-2"></i>개발자 커뮤니티</a>
+                    <a href="board.php?id=best" class="nav-item nav-link"><i class="fa me-2">★</i>인기 게시글</a>
+                    <a href="board.php?id=user" class="nav-item nav-link"><i class="fa fa-file-alt me-2"></i>이용자 커뮤니티</a>
+                    <a href="board.php?id=maker" class="nav-item nav-link"><i class="fa fa-keyboard me-2"></i>개발자 커뮤니티</a>
                 </div>
             </nav>
         </div>
