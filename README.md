@@ -10,38 +10,18 @@
 └───────────────────────────────────────────────┘
 ```
 
-# goormIDE
-Welcome to goormIDE!
+# 20200988_백건우
+성결대학교 미디어소프트웨어학과 2학년 백건우의 앱프로그래밍 1-3 기말 과제입니다.
 
-goormIDE is a powerful cloud IDE service to maximize productivity for developers and teams.  
-**DEVELOP WITH EXCELLENCE**  
+코드가 필요하신 분들은 편하게 사용하셔도 좋습니다.
 
-`Happy coding! The goormIDE team`
+원활한 사용과 무료 24시간 활성화를 위해 Google Cloud 에 있던 시스템을 goormIDE를 이용해 옮겨 두었습니다.
+
+**보다 자세한 설명은 아래 유튜브 링크를 통해 확인 할 수 있습니다.**  
 
 
-## 🔧 Tip & Guide
+## 🔧 소개 영상
 
-* Command feature
-	* You can simply run your script using the shortcut icons on the top right.
-	* Check out `PROJECT > Common/Build/Run/Test/Find Command` in the top menu.
-	
-* Get URL and Port
-	* Click `PROJECT > URL/PORT` in top menu bar.
-	* You can get default URL/Port and add URL/Port in the top menu.
-
-* Useful shortcut
-	
-| Shortcuts name     | Command (Mac) | Command (Window) |
-| ------------------ | :-----------: | :--------------: |
-| Copy in Terminal   | ⌘ + C         | Ctrl + Shift + C |
-| Paste in Terminal  | ⌘ + V         | Ctrl + Shift + V |
-| Search File        | ⌥ + ⇧ + F     | Alt + Shift + F  |
-| Terminal Toggle    | ⌥ + ⇧ + B     | Alt + Shift + B  |
-| New Terminal       | ⌥ + ⇧ + T     | Alt + Shift + T  |
-| Code Formatting    | ⌥ + ⇧ + P     | Alt + Shift + P  |
-| Show All Shortcuts | ⌘ + H         | Ctrl + H         |
-
-## 💬 Support & Documentation
-
-Visit [https://ide.goorm.io](https://ide.goorm.io) to support and learn more about using goormIDE.  
-To watch some usage guides, visit [https://help.goorm.io/en/goormide](https://help.goorm.io/en/goormide)
+* [바로 가기](https://www.youtube.com/watch?v=2NEsQdhNs7E)
+	* 클릭하시면 소개영상 링크로 이동합니다.
+	* 소개영상을 통해 앱의 시연 과정을 보실 수 있습니다.
