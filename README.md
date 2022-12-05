@@ -22,6 +22,6 @@
 
 ## 🔧 소개 영상
 
-* [바로 가기](https://www.youtube.com/watch?v=2NEsQdhNs7E)
+* [바로 가기](https://youtu.be/qkEbe9_9y5s)
 	* 클릭하시면 소개영상 링크로 이동합니다.
 	* 소개영상을 통해 앱의 시연 과정을 보실 수 있습니다.
